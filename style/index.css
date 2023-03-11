@@ -1,1 +1,119 @@
 /* CSS stillerinizi buraya girin */
+
+.footer {
+  display: flex;
+  justify-content: space-around;
+  color: white;
+
+  border-style: inset;
+  border-width: thick;
+
+  text-align: center;
+}
+
+li {
+  list-style-type: none;
+  margin: 0;
+
+  flex-grow: 1;
+  float: left;
+
+  color: blueviolet;
+}
+
+img {
+  float: left;
+}
+
+.sola-kaydir {
+  float: left;
+  padding: 0 10px 10px 0;
+  width: 50%;
+}
+lu {
+  background-color: white;
+}
+
+.projelerim {
+  margin-left: 650px;
+  border-right-color: black;
+  padding: 10px;
+  border-left-color: black;
+  border-top-color: black;
+  border-bottom-color: black;
+  border-style: solid;
+  border-width: thick;
+  margin-right: 120px;
+}
+.clear {
+  clear: both;
+}
+.left,
+.right {
+  margin-right: 10px;
+  padding: 0;
+}
+.left {
+  float: left;
+}
+.right {
+  float: right;
+}
+.right2 {
+  float: right;
+}
+.right3 {
+  float: right;
+}
+
+.baslik1 {
+  margin-top: 150px;
+  margin-left: 650px;
+}
+.Burcu {
+  margin-left: 250px;
+}
+.resimbuyuk {
+  float: left;
+  margin-right: 10px;
+}
+.resimkucuk1 {
+  float: left;
+  margin-right: 50px;
+  padding: 20px;
+}
+.resimkucuk2 {
+  float: left;
+  margin-right: 50px;
+  padding: 20px;
+}
+.resimkucuk3 {
+  float: left;
+  margin-right: 50px;
+  padding: 20px;
+}
+.resimkucuk4 {
+  margin-right: 10px;
+  padding: 20px;
+}
+
+.resimkucuk5 {
+  float: left;
+  margin-right: 50px;
+  padding: 20px;
+}
+.resimkucuk6 {
+  float: left;
+  margin-right: 50px;
+  padding: 20px;
+}
+.resimkucuk7 {
+  float: left;
+  margin-right: 50px;
+  padding: 20px;
+}
+.resimkucuk8 {
+  float: left;
+  margin-right: 50px;
+  padding: 20px;
+}
